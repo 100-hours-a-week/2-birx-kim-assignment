@@ -302,5 +302,8 @@ def fight(igp, monster):
       sel = input()
 
 # 실제 실행 main()함수 부분
-igp = None #in game player 초기화
-start()
+def main():
+  igp = None #in game player 초기화
+  start()
+
+main()
