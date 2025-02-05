@@ -1,5 +1,11 @@
 ## NumPy Mini-Quest
-[Colab link](https://colab.research.google.com/drive/1CRz2__DU5AnB4AG3Hvs4rDPLVokb9lAn?usp=sharing)
+[Colab link](https://colab.research.google.com/drive/1CRz2__DU5AnB4AG3Hvs4rDPLVokb9lAn?usp=sharing)</br>
+1. [차원(Dimension)](#차원dimension)
+2. [형태(Shape)](#형태shape)
+3. [데이터 타입(Datatype)](#데이터-타입data-type)
+4. [인덱싱(Indexing)](#인덱싱indexing)
+5. [연산(Operation)](#연산operation)
+6. [유니버설 함수(Universal Function)](#유니버설-함수universal-function)
 ### 차원(Dimension)
 1. 다음 NumPy 배열의 차원 수를 출력하는 코드를 작성하세요.
    ```python
