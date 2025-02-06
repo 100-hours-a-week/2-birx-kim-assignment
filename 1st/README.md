@@ -11,4 +11,6 @@ CLI(Command Line Interface) 프로그램 제작 (동기 synchronous 프로그램
 
 1. 순서도 기반 콘솔 프로그램 제작</br>
 사용자에게 입력을 받고 진행이 되는 형태가 되어야 합니다.<br/>
-[1주차 과제](https://github.com/thplus/brix-assignment/blob/main/1st/1st_assign.py)
+[1주차 과제](/1st/1st_assign.py)</br>
+[1주차 과제 회고](/1st/review.md)
+

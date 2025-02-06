@@ -15,4 +15,6 @@
 - 데이터를 파일로 저장한 뒤, "title"키의 값을 출력하세요.
 
 #### 제출 방식
-- 1, 2, 3번을 Colab 페이지 하나로 하여 링크 제출
+- 1, 2, 3번을 Colab 페이지 하나로 하여 링크 제출</br>
+- [colab link](https://colab.research.google.com/drive/1eFOhx5WbqNM9zKkNlTiKi7HZFbOC1QLj?usp=sharing)</br>
+- [2주차 과제 풀이 및 회고](/2nd/review.md)
