@@ -23,7 +23,7 @@
     }
     ```
 #### 비정형 데이터 처리
-- API에서 JSON 데이터를 가저와 `DataFrame`으로 변환 후 아래 필드를 추출해 새로운 `DataFrame`을 만드세요.
+- [API](https://jsonplaceholder.typicode.com/users)에서 JSON 데이터를 가저와 `DataFrame`으로 변환 후 아래 필드를 추출해 새로운 `DataFrame`을 만드세요.
 
     |필드|변환 내용|
     |--|--|
@@ -36,7 +36,6 @@
 
 - `City`가 `"Lebsackbury"` 또는 `"Roscoeview"`에 해당하는 사용자만 필터링하세요.
 - 필터링 된 `DataFrame`을 CSV파일로 저장하세요.
-- [API](https://jsonplaceholder.typicode.com/users)
 
 ### 3. 시각화 및 시계열 데이터 활용
 - 아래 데이터를 `Pandas`와 `Matplotlib`를 사용해 시계열 그래프로 시각화하세요.
