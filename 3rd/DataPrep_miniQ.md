@@ -1,5 +1,6 @@
 ## 데이터 준비 및 변환 Mini-Quest
-[Colab link]()</br>
+[Colab link](https://colab.research.google.com/drive/1ji7Z_YM74R9ZDgxUUWJghMsrhYIiND0b?usp=sharing)</br>
+[Jupyter Notebook](/3rd/DataPrep_miniQ.ipynb)
 1. [정형 데이터(Structured Data)](#1-정형-데이터structured-data)
 2. [비정형 데이터(Unstructured Data)](#2-비정형-데이터unstructured-data)
 ### 1. 정형 데이터(Structured Data)
