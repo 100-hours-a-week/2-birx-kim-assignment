@@ -1,5 +1,5 @@
 ## SciPy Mini-Quest
-[Colab link]()</br>
+[Colab link](https://colab.research.google.com/drive/1JtQII7PMk0anb-Q3BGwXKAeHLyvk22yI?usp=sharing)</br>
 1. [정규분포(Normal Distribution)](#1-정규분포normal-distribution)
 2. [기술통계(Descriptive Statistics)](#2-기술통계descriptive-statistics)
 3. [가설검정(Hypothesis Testing)](#3-가설검정hypothesis-testing)
