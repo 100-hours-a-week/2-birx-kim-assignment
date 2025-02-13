@@ -142,6 +142,6 @@
     ```
 - 출력</br>
     ![alt text](/3rd/image/assign3.png)
-- 회고
+- 회고</br>
     `Matplotlib`을 사용해 `DataFrame`을 선 그래프로 시각화 하는 것을 실습하였다. 시계열로 된 데이터는 추세가 생기므로 `DataFrame`형식보다는 확실히 그래프로 그리는 것이 이해하는데 더욱 도음이 된다.
 ---
