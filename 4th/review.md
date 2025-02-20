@@ -226,7 +226,7 @@ df
     plt.ylabel('Feature 2')
     plt.show()
     ```
-    출력
+    출력</br>
     ![alt text](/4th/image/main_3_visualization.png)
 
 - 학습을 위해 train 데이터와 test 데이터를 분할 (8:2)
@@ -363,6 +363,7 @@ df
     |2|1|0|1|
     |3|1|1|1|
 
+    학습 후
     ```python
     orModel.train()
     temp = []
@@ -409,6 +410,7 @@ df
     |0|0|1|
     |1|1|1|
 
+    학습 후
     ```python
     notModel.train()
     temp = []
