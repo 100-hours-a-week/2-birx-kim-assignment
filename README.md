@@ -10,8 +10,8 @@ KTB 판교 2기 과제를 올려보기 위한 Repository 입니다.
 - [과제 내용](/3rd/README.md)
 - [과제 풀이 및 회고](/3rd/review.md)
 ### 4주차 과제
-- [과제 내용]()
-- [과제 풀이 및 회고]()
+- [과제 내용](/4th/README.md)
+- [과제 풀이 및 회고](/4th/review.md)
 ### Mini-Quest
 - [NumPy](/2nd/NumPy_miniQ.md)
 - [Pandas](/2nd/Pandas_miniQ.md)
